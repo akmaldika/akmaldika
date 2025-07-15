@@ -40,30 +40,20 @@ I'm passionate about software engineering, security, web development, and machin
 ## 📊 Stats
 
 <div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=akmaldika&theme=onedark&row=1&column=7" alt="akmaldika trophies"/>
+<!-- "https://github.com/ryo-ma/github-profile-trophy" -->
+  <a href="https://github.com/akmaldika/akmaldika">
+    <img src="https://github-profile-trophy.vercel.app/?username=akmaldika&column=-1&theme=dracula&no-frame=true" alt="akmaldika trophies"/>
+  </a>
+</div>
+  
+<div align="center">
+  <a href="https://github.com/akmaldika/akmaldika">
+    <img src="https://github-readme-stats.vercel.app/api?username=akmaldika&theme=dracula&hide_border=true&show_icons=true" alt="GitHub Stats" height=165/>
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=akmaldika&theme=dracula&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=465" alt="GitHub Streak" height=165/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akmaldika&theme=dracula&hide_border=true&layout=compact" alt="Top Languages" />
   </a>
 </div>
 
-<!--
-<table align="center" border="0" cellspacing="0" cellpadding="0">
-  <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=akmaldika&show_icons=true&theme=onedark" alt="GitHub Stats" /></td>
-    <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=akmaldika&theme=onedark" alt="GitHub Streak" /></td>
-  </tr>
-</table>
-  -->
-  
-<div align="center">
-  <div style="display: flex; justify-content: center; align-items: center; gap: 8px;">
-    <img src="https://github-readme-stats.vercel.app/api?username=akmaldika&show_icons=true&theme=onedark" alt="GitHub Stats" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=akmaldika&theme=onedark" alt="GitHub Streak" />
-  </div>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akmaldika&layout=compact&theme=onedark" alt="Top Languages" />
-</div>
 
 <!--
 **akmaldika/akmaldika** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
